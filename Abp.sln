@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.AspNetCore", "Abp.AspNetCore\Abp.AspNetCore.csproj", "{F092CF3A-D063-4632-BED7-C5E01C10AD99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.Web.Api", "Abp.Web.Api\Abp.Web.Api.csproj", "{F1C177DB-DC98-40AA-9C22-3755612823F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp", "Abp\Abp.csproj", "{81FE0628-A5BE-479D-8500-F3591D09E47D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F092CF3A-D063-4632-BED7-C5E01C10AD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F092CF3A-D063-4632-BED7-C5E01C10AD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F092CF3A-D063-4632-BED7-C5E01C10AD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F092CF3A-D063-4632-BED7-C5E01C10AD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C177DB-DC98-40AA-9C22-3755612823F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C177DB-DC98-40AA-9C22-3755612823F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C177DB-DC98-40AA-9C22-3755612823F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C177DB-DC98-40AA-9C22-3755612823F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FE0628-A5BE-479D-8500-F3591D09E47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FE0628-A5BE-479D-8500-F3591D09E47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FE0628-A5BE-479D-8500-F3591D09E47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FE0628-A5BE-479D-8500-F3591D09E47D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E54446-F88A-4A7D-B5CF-54B8878086B8}
+	EndGlobalSection
+EndGlobal
