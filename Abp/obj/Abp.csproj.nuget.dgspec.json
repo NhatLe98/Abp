@@ -47,9 +47,17 @@
               "target": "Package",
               "version": "[4.4.1, )"
             },
+            "Castle.Windsor": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "JetBrains.Annotations": {
               "target": "Package",
               "version": "[2021.3.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
