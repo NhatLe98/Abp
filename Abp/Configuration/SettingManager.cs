@@ -1,5 +1,6 @@
 ﻿using Abp.Configuration.Startup;
 using Abp.Dependency;
+using Abp.Domain.Uow;
 using Abp.MultiTenancy;
 using Abp.Runtime.Caching;
 using Abp.Runtime.Session;
